@@ -1,4 +1,4 @@
-# User Authentication - API - Express JS
+# User Authentication - API - JS
 
 ## Welcome! 👋
 
