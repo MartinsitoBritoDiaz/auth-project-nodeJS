@@ -5,7 +5,7 @@ const jsonWebToken = require('jsonwebtoken');
 const { expressjwt: jwt} = require('express-jwt');
 const User = require('./user');
 
-mongoose.connect('mongodb+srv://martinsitobd:RwbBI8ZIdZFB12jy@cluster0.4qe63.mongodb.net/auth?retryWrites=true&w=majority');
+mongoose.connect();
 
 const app = express();
 
